@@ -62,7 +62,7 @@ Maven
 
 IDE (Spring Tools for Eclipse recomendado)
 
-# Passos
+### Passos
 
 - Clone o repositório:
 
